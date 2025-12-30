@@ -7,6 +7,14 @@ An advanced machine learning web application for predicting diabetes risk using 
 ![ML](https://img.shields.io/badge/ML-Scikit--learn-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+## 🚀 Try it Live!
+
+**🌐 Live Demo:** [https://magudeshwaran-diabetes-prediction.streamlit.app/](https://magudeshwaran-diabetes-prediction.streamlit.app/)
+
+Experience the AI-powered diabetes prediction system in action! No installation required - just click the link above to start analyzing diabetes risk instantly.
+
+---
+
 ## 🌟 Features
 
 - ✨ **Beautiful Modern UI** - Stunning gradient design with glassmorphism effects
